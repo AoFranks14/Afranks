@@ -2,7 +2,7 @@
 
 ## Team members
 
-(Delete this line and replace it with your information!)
+- Andrew Franks <afranks1@hawk.iit.edu>
 
 ## Git & GitHub
 
